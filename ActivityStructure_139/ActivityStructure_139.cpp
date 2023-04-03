@@ -41,7 +41,7 @@ int main()
     cout << "\nAlamat = " << mhs2.alamat;
     cout << "\nUmur = " << mhs2.umur;
 
-};
+}
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
