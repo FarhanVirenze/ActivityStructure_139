@@ -2,6 +2,12 @@
 //
 
 #include <iostream>
+using namespace std;
+
+struct AlamatDetail
+{
+
+};
 
 int main()
 {
