@@ -15,7 +15,8 @@ struct Mahasiswa
     string nim;
     string nama;
     AlamatDetail alamat;
-    
+    int umur;
+
 };
 
 int main()
