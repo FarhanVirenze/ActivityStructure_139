@@ -12,6 +12,9 @@ struct AlamatDetail
 
 struct Mahasiswa
 {
+    char nim[12];
+    char nama[25];
+    AlamatDetail alamat;
 
 };
 int main()
