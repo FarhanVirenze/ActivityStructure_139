@@ -10,6 +10,10 @@ struct AlamatDetail
     char kota[20];
 };
 
+struct Mahasiswa
+{
+
+};
 int main()
 {
     std::cout << "Hello World!\n";
